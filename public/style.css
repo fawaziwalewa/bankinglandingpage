@@ -847,11 +847,11 @@ video {
 }
 
 .bg-\[url\(\'\/public\/img\/quote\.svg\'\)\] {
-  background-image: url('./public/img/quote.svg');
+  background-image: url('./img/quote.svg');
 }
 
 .bg-\[url\(\'\.\/public\/img\/quote\.svg\'\)\] {
-  background-image: url('./public/img/quote.svg');
+  background-image: url('./img/quote.svg');
 }
 
 .bg-center {
