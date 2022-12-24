@@ -11,11 +11,17 @@ Tailwind CSS, HTML5, CSS.
 The UI Design for this project was downloaded from https://uidesign.to/
 UI is completely open source and their is no copyright infringement of any kind.
 
+# Demo
+
+Check out the live preview here:
+
+[Banking Landing Page](https://fawaziwalewa.github.io/bankinglandingpage/)
+
 # Screenshot
 
 ## Desktop
-![image](!https://fawaziwalewa.github.io/bankinglandingpage/overview screenshot.png)
+![image](https://fawaziwalewa.github.io/bankinglandingpage/public/overview%20screenshot.png)
 
 ## Mobile
 
-![image](!https://fawaziwalewa.github.io/bankinglandingpage/overview screenshot mobile)
+![image](https://fawaziwalewa.github.io/bankinglandingpage/public/overview%20screenshot%20mobile.png)
